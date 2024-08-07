@@ -24,7 +24,7 @@ Frontend Mentor QR Code Challenge - build out a QR Code component to look like t
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-challenge-sn2T5XyMqd](https://www.frontendmentor.io/solutions/qr-code-challenge-sn2T5XyMqd)
 - Live Site URL: [https://hlysllrs.github.io/qr-code-component/](https://hlysllrs.github.io/qr-code-component/)
 
 ## My process
